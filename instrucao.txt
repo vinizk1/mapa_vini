@@ -1,0 +1,3 @@
+O jogador neste mapa vai pular alguns obstaculos, desviando de cogumelos e alguns animais que vao atrapalhar o jogador. Depois, o jogador vai pular em uma caverna, caindo diretamente no calabouco da emely.
+
+sera necessario pular, desviar atacar e defender. 
